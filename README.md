@@ -37,7 +37,7 @@ The following query string parameters are included in the API request:
   - Note: Mask Formats matches in same order with the `obfuscatedDataTypes` so in the example "PHONE_NUMBER" will be "LEAVE_LAST_FOUR" and "EMAIL_ADDRESS" will be "FULLY_OBFUSCATED".
 - `username`: Username for authentication (e.g., "golang-sample-user").
 - `usergroup`: Usergroup for authorization (e.g., "golang-sample-usergroup").
-- `storeOriginalValues`: Whether to store original values in the response (e.g., "true").
+- `storeOriginalValues`: Whether to store original values in our activity tracking (e.g., "true").
 
 ## Notes
 
