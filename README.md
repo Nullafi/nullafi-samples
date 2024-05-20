@@ -1,10 +1,6 @@
-# Code Samples
+# API File Upload Code Samples
 
 This repository has examples on Golang, Nodejs and Python on how to consume our API to Dynamically scan Excel Spreadsheets and Word Docs.
-
-# API File Upload
-
-This repository demonstrates how to consume the Nullafi API for file uploads for Data Type detection and obfuscation. 
 It includes examples of uploading excel spreadsheets and word docs, setting the proper Content-Type header, including query strings in the API request, and saving the API response.
 
 ## Usage
